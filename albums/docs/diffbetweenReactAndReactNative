@@ -1,0 +1,5 @@
+1.To know the difference between react and ReactNative click the below link
+https://firebasestorage.googleapis.com/v0/b/bytez-71169.appspot.com/o/Learnings%2FReactNative%2Fdiffrencebetweenreactandractnative.png?alt=media&token=9ba4ee6b-fba1-4d21-859c-e733056e595a
+2.component:
+  A component is a javascript function that returns some
+  amount of jsx(which tells what type of content has to be shown in user screen).
