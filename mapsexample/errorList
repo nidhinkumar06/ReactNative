@@ -1,0 +1,5 @@
+Error 1:
+-----------
+Error: animateToNavigation is not a function
+Solution: animateToNavigation version is not available in npm version it is available only git version
+Link: https://github.com/react-community/react-native-maps/issues/2355
