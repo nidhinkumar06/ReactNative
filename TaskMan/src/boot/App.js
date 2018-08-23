@@ -5,6 +5,7 @@ import {
   StyleSheet,
 } from 'react-native';
 import SplashScreen from 'react-native-splash-screen';
+import Welcome from '../components/pages/Welcome';
 
 export default class App extends Component {
   componentDidMount() {
@@ -12,9 +13,7 @@ export default class App extends Component {
   }
   render() {
     return (
-      <View style={styles.container}>
-        <Text>I'm the App component</Text>
-      </View>
+      <Welcome />
     );
   }
 }
