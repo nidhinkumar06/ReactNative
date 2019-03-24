@@ -2,12 +2,14 @@ import React, { Component } from 'react';
 import { StyleSheet } from 'react-native';
 import Color from '../../common/styles/Color';
 import { Container, Content, Button, Text } from 'native-base';
+import PageControl from '../containers/PageControl';
 
 export default class Welcome extends Component {
   render() {
     return (
       <Container>
         <Content>
+          <PageControl />
           <Button block rounded>
             <Text>Log In</Text>
           </Button>

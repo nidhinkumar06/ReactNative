@@ -2,6 +2,8 @@ About:
 
 It opens a modal and we can type the location queries
 
+Git Link: https://github.com/tolu360/react-native-google-places
+
 Installation of Google place plugin:
 
 >npm i react-native-google-places --save
